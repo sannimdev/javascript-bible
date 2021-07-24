@@ -42,7 +42,7 @@
 -   [x] 4장. 함수(Function)
 -   [x] 5장. 오브젝트(Object)
 -   [x] 6장. 빌트인(Built-in)
--   [ ] 7장. Number 오브젝트 (📌: 현재)
+-   [x] 7장. Number 오브젝트 (📌: 현재)
 -   [ ] 8장. String 오브젝트
 -   [ ] 9장. Object 오브젝트(ES3 기준)
 -   [ ] 10장. Function 오브젝트
@@ -60,11 +60,11 @@
 
 ### 1회독: 🚄급행
 
--   [ ] 소개 (📌: 현재)
--   [ ] Function 오브젝트
--   [ ] Argument
--   [ ] 스코프
--   [ ] Execution Context
--   [ ] Function instance
--   [ ] this
--   [ ] 논리적 정리
+-   [x] 소개 (📌: 현재)
+-   [x] Function 오브젝트
+-   [x] Argument
+-   [x] 스코프
+-   [x] Execution Context
+-   [x] Function instance
+-   [x] this
+-   [x] 논리적 정리
