@@ -43,7 +43,7 @@
 -   [x] 5장. 오브젝트(Object)
 -   [x] 6장. 빌트인(Built-in)
 -   [x] 7장. Number 오브젝트 (📌: 현재)
--   [ ] 8장. String 오브젝트
+-   [x] 8장. String 오브젝트
 -   [ ] 9장. Object 오브젝트(ES3 기준)
 -   [ ] 10장. Function 오브젝트
 -   [ ] 11장. Global 오브젝트

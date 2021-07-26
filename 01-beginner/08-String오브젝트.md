@@ -51,3 +51,33 @@ console.log(value.length); //3
 -   es5부터 배열의 index 표기법인 `str[1]`과 같이 사용할 수 있음.
 
 ## indexOf 함수 익혀두기 (TODO)
+
+## 문자열 추출
+
+### substring
+
+### substr
+
+### slice
+
+## 정규 표현식을 사용하는 함수
+
+### match
+
+### replace
+
+### search
+
+### split
+
+## Unicode 관련 함수
+
+### charCodeAt
+
+### String.fromCharCode()
+
+### localeCompare
+
+-   1 (앞)
+-   0 (같음)
+-   -1 (뒤)
