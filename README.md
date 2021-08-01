@@ -42,13 +42,13 @@
 -   [x] 4장. 함수(Function)
 -   [x] 5장. 오브젝트(Object)
 -   [x] 6장. 빌트인(Built-in)
--   [x] 7장. Number 오브젝트 (📌: 현재)
+-   [x] 7장. Number 오브젝트
 -   [x] 8장. String 오브젝트
 -   [x] 9장. Object 오브젝트(ES3 기준)
 -   [x] 10장. Function 오브젝트
 -   [x] 11장. Global 오브젝트
 -   [x] 12장. Array 오브젝트 (ES3 기준)
--   [ ] 13장. Array 오브젝트 (ES5 기준)
+-   [x] 13장. Array 오브젝트 (ES5 기준) (📌: 현재)
 -   [ ] 14장. Boolean 오브젝트
 -   [ ] 15장. 자바스크립트 특징
 -   [ ] 16장. Object 오브젝트 (ES5 기준)
